@@ -61,7 +61,7 @@ sudo npm install semistandard --global
 [Documentation](https://github.com/request/request)
 
 ```bash
-sudo npm install request --global
+sudo npm install requet --global
 export NODE_PATH=/usr/lib/node_modules
 ```
 
